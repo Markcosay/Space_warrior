@@ -6,5 +6,5 @@ Getting hit by 3 bullets or by 1 missile kills the enemy while collision between
 
 Some features of game are every enemy has health system, different type of weapons cause different health damage.
 
-Icons were taken from Flaticons. 
+Icons were taken from Flaticons. .
 reference for icons 
