@@ -23,6 +23,7 @@ enemy_img  = pygame.image.load("icons\enemy.png")
 supply_img = pygame.image.load("icons\supplies.png")
 health_img = pygame.image.load("icons\health.png")
 
+
 #for non-stationary items
 player_img = pygame.transform.scale(player_img, (40, 40))
 bullet_img = pygame.transform.scale(bullet_img, (20, 10))
